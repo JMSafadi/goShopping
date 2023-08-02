@@ -85,6 +85,4 @@ const products = [
     price: 200
   },
 ]
-
-
 </script>
